@@ -1,0 +1,12 @@
+/* src/components/Header.css */
+.header {
+    background-color: #FBD288; /* Background color */
+    color: black; /* Text color */
+    text-align: center; /* Center the text */
+    padding: 1rem; /* Adjust padding as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    position: fixed; /* Ensure proper stacking context */
+    z-index: 1; /* Place above other elements */
+    width: 100%;
+  }
+  
